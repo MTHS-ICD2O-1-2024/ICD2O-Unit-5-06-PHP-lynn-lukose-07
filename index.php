@@ -28,7 +28,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/Multiplication.png" alt="Image of a multiplication table." />
+        <img src="./images/multiplication.jpeg" alt="Image of a multiplication table." />
       </div>
       <div class="page-content">Please enter two integers you want multiplied together.</div>
       <br />
@@ -68,7 +68,7 @@
         <div>
           <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
             type="check-button">
-            Multiply
+            Check
           </button>
         </div>
       </form>
