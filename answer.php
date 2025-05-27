@@ -28,7 +28,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/Multiplication.png" alt="Image of a multiplication table." />
+        <img src="./images/multiplication.jpeg" alt="Image of a multiplication table." />
       </div>
       <div class=" page-content-php">
         <div id="user-info">
